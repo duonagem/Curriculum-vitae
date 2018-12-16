@@ -1,30 +1,153 @@
-open source     > level 1, order 1, name 'C:/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
+open source     > level 1, order 1, name '/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
 system          > 
-system          > ConTeXt  ver: 2018.12.01 13:20 MKIV beta  fmt: 2018.12.6  int: english/english
+system          > ConTeXt  ver: 2018.12.01 13:20 MKIV beta  fmt: 2018.12.4  int: english/english
 system          > 
 system          > 'cont-new.mkiv' loaded
-open source     > level 2, order 2, name 'C:/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
+open source     > level 2, order 2, name '/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
 system          > beware: some patches loaded from cont-new.mkiv
-close source    > level 2, order 2, name 'C:/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
+close source    > level 2, order 2, name '/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv'
 system          > files > jobname 'curriculum', input './curriculum', result 'curriculum'
 fonts           > latin modern fonts are not preloaded
 languages       > language 'en' is active
 system          > synctex functionality is enabled, expect 5-10 pct runtime overhead!
-open source     > level 2, order 3, name 'A:/Documents/GitHub/Curriculum-vitae/curriculum.tex'
-open source     > level 3, order 4, name 'C:/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
-close source    > level 3, order 4, name 'C:/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
-open source     > level 3, order 5, name 'C:/context/tex/texmf-context/tex/context/base/mkiv/colo-imp-xwi.mkiv'
-close source    > level 3, order 5, name 'C:/context/tex/texmf-context/tex/context/base/mkiv/colo-imp-xwi.mkiv'
+open source     > level 2, order 3, name '/home/duonagem/Documentos/Repositories/Curriculum-vitae/curriculum.tex'
+open source     > level 3, order 4, name '/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+close source    > level 3, order 4, name '/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+open source     > level 3, order 5, name '/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/colo-imp-xwi.mkiv'
+close source    > level 3, order 5, name '/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/colo-imp-xwi.mkiv'
 colors          > system 'xwi' is loaded
-open source     > level 3, order 6, name 'C:/context/tex/texmf-context/tex/context/base/mkiv/symb-imp-fontawesome.mkiv'
-close source    > level 3, order 6, name 'C:/context/tex/texmf-context/tex/context/base/mkiv/symb-imp-fontawesome.mkiv'
+open source     > level 3, order 6, name '/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/symb-imp-fontawesome.mkiv'
+close source    > level 3, order 6, name '/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/symb-imp-fontawesome.mkiv'
 fonts           > symbols > library 'fontawesome' loaded
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'WhitneyB--0'
+fonts           > defining > font with asked name 'WhitneyHTF-BookSC' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-BookSC', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-BookSC' as 'Skill--0'
+fonts           > defining > font with asked name 'FiraSans-Medium' is not found using lookup 'name'
+fonts           > defining > unknown font 'FiraSans-Medium', loading aborted
+fonts           > defining > unable to define 'FiraSans-Medium' as 'Mail--0'
+fonts           > defining > font with asked name 'FiraSans-Medium' is not found using lookup 'name'
+fonts           > defining > unknown font 'FiraSans-Medium', loading aborted
+fonts           > defining > unable to define 'FiraSans-Medium' as 'Mail--0'
+fonts           > defining > font with asked name 'FiraSans-Medium' is not found using lookup 'name'
+fonts           > defining > unknown font 'FiraSans-Medium', loading aborted
+fonts           > defining > unable to define 'FiraSans-Medium' as 'Mail--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'WhitneyB--0'
+fonts           > defining > font with asked name 'WhitneyHTF-BookSC' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-BookSC', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-BookSC' as 'Skill--0'
+fonts           > defining > font with asked name 'FiraSans-Medium' is not found using lookup 'name'
+fonts           > defining > unknown font 'FiraSans-Medium', loading aborted
+fonts           > defining > unable to define 'FiraSans-Medium' as 'Mail--0'
+fonts           > defining > font with asked name 'FiraSans-Medium' is not found using lookup 'name'
+fonts           > defining > unknown font 'FiraSans-Medium', loading aborted
+fonts           > defining > unable to define 'FiraSans-Medium' as 'Mail--0'
+fonts           > defining > font with asked name 'FiraSans-Medium' is not found using lookup 'name'
+fonts           > defining > unknown font 'FiraSans-Medium', loading aborted
+fonts           > defining > unable to define 'FiraSans-Medium' as 'Mail--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'WhitneyB--0'
+fonts           > defining > font with asked name 'WhitneyHTF-BookSC' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-BookSC', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-BookSC' as 'Skill--0'
+fonts           > defining > font with asked name 'FiraSans-Medium' is not found using lookup 'name'
+fonts           > defining > unknown font 'FiraSans-Medium', loading aborted
+fonts           > defining > unable to define 'FiraSans-Medium' as 'Mail--0'
+fonts           > defining > font with asked name 'FiraSans-Medium' is not found using lookup 'name'
+fonts           > defining > unknown font 'FiraSans-Medium', loading aborted
+fonts           > defining > unable to define 'FiraSans-Medium' as 'Mail--0'
+fonts           > defining > font with asked name 'FiraSans-Medium' is not found using lookup 'name'
+fonts           > defining > unknown font 'FiraSans-Medium', loading aborted
+fonts           > defining > unable to define 'FiraSans-Medium' as 'Mail--0'
 structure       > sectioning > subject @ level 3 : 0.0.0 -> Educación\thinrule 
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Light' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Light', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Light' as 'Body--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
 structure       > sectioning > subject @ level 3 : 0.0.0 -> Experiencia profesional\thinrule 
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
 structure       > sectioning > subject @ level 3 : 0.0.0 -> Cursos realizados\thinrule 
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'Heebo-Black' is not found using lookup 'name'
+fonts           > defining > unknown font 'Heebo-Black', loading aborted
+fonts           > defining > unable to define 'Heebo-Black' as 'HeeboBl--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Bold' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Bold', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Bold' as 'titleb--0'
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
- []<17: texgyretermes-regular @ 9.0pt> Con-T[]Xt  ver-sion:[]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+ []<11: texgyretermes-regular @ 9.0pt> Con-T[]Xt  ver-sion:[]
 
 \hbox(8.16724+3.17615)x497.92325, glue set 24.04549, direction TLT
 .\glue(\leftskip) 0.0 plus 18.0
@@ -34,29 +157,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
 ..\localleftbox=null
 ..\localrightbox=null
 .\hbox(0.0+0.0)x0.0, direction TLT
-.<17: texgyretermes-regular @ 9.0pt> C
-.<17: texgyretermes-regular @ 9.0pt> o
+.<11: texgyretermes-regular @ 9.0pt> C
+.<11: texgyretermes-regular @ 9.0pt> o
 .etc.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
- <17: texgyretermes-regular @ 9.0pt> 2018.12.01 13:20[]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+ <11: texgyretermes-regular @ 9.0pt> 2018.12.01 13:20[]
 
 \hbox(8.16724+3.17615)x497.92325, glue set 24.14735, direction TLT
 .\glue(\leftskip) 0.0 plus 18.0
-.<17: texgyretermes-regular @ 9.0pt> 2
-.<17: texgyretermes-regular @ 9.0pt> 0
-.<17: texgyretermes-regular @ 9.0pt> 1
-.<17: texgyretermes-regular @ 9.0pt> 8
+.<11: texgyretermes-regular @ 9.0pt> 2
+.<11: texgyretermes-regular @ 9.0pt> 0
+.<11: texgyretermes-regular @ 9.0pt> 1
+.<11: texgyretermes-regular @ 9.0pt> 8
 .etc.
 
 layouts         > gridmode, noflines: 65, textheight: 731.23587pt, textovershoot: 207.83838pt (maybe set number of lines instead)
-fonts           > checking > char ́ (U+00301) in font 'WhitneyHTF-Light' with id 15: missing
-backend         > xmp > using file 'C:/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml'
+fonts           > defining > font with asked name 'WhitneyHTF-Light' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Light', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Light' as 'Body--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Light' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Light', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Light' as 'Body--0'
+fonts           > defining > font with asked name 'WhitneyHTF-Light' is not found using lookup 'name'
+fonts           > defining > unknown font 'WhitneyHTF-Light', loading aborted
+fonts           > defining > unable to define 'WhitneyHTF-Light' as 'Body--0'
+backend         > xmp > using file '/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml'
 pages           > flushing realpage 1, userpage 1, subpage 1
-pages           > flushing realpage 2, userpage 2, subpage 2
-close source    > level 2, order 6, name 'A:/Documents/GitHub/Curriculum-vitae/curriculum.tex'
-close source    > level 1, order 6, name 'C:/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
+close source    > level 2, order 6, name '/home/duonagem/Documentos/Repositories/Curriculum-vitae/curriculum.tex'
+close source    > level 1, order 6, name '/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv'
 backend         > info > no date/time but fake id information will be added
 
 system          > start used files
@@ -68,34 +198,28 @@ system          > stop used files
 
 system          > start used files
 
-system          >    1: filename=char-prv.lua filetype=tex format=tex foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/char-prv.lua fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/char-prv.lua usedmethod=database
-system          >    2: filename=cont-yes.mkiv filetype=tex foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
-system          >    3: filename=publ-imp-default.lua filetype=scripts foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
-system          >    4: filename=cont-new.mkiv filetype=tex foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
-system          >    5: filename=lang-exc.lua filetype=scripts foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua usedmethod=database
-system          >    6: filename=lang-us.lua filetype=scripts foundname=C:/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua fullname=C:/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
-system          >    7: filename=A:\Documents\GitHub\Curriculum-vitae/curriculum.tex foundname=A:/Documents/GitHub/Curriculum-vitae/curriculum.tex fullname=A:/Documents/GitHub/Curriculum-vitae/curriculum.tex usedmethod=direct
-system          >    8: filename=type-imp-texgyre.mkiv filetype=tex foundname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-texgyre.mkiv fullname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-texgyre.mkiv usedmethod=database
-system          >    9: filename=lm.lfg filetype=tex foundname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/lm.lfg fullname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/lm.lfg usedmethod=database
-system          >   10: filename=texgyrepagella-regular filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf fullname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf usedmethod=database
-system          >   11: filename=texgyrepagella-math.otf filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre-math/texgyrepagella-math.otf fullname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre-math/texgyrepagella-math.otf usedmethod=database
-system          >   12: filename=pagella-math.lfg filetype=tex foundname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/pagella-math.lfg fullname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/pagella-math.lfg usedmethod=database
-system          >   13: filename=schola-math.lfg filetype=tex foundname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/schola-math.lfg fullname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/schola-math.lfg usedmethod=database
-system          >   14: filename=colo-imp-xwi.mkiv filetype=tex foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/colo-imp-xwi.mkiv fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/colo-imp-xwi.mkiv usedmethod=database
-system          >   15: filename=symb-imp-fontawesome.mkiv filetype=tex foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/symb-imp-fontawesome.mkiv fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/symb-imp-fontawesome.mkiv usedmethod=database
-system          >   16: filename=c:/windows/fonts/WhitneyHTF-Bold.otf format=otf foundname=c:/windows/fonts/WhitneyHTF-Bold.otf fullname=c:/windows/fonts/WhitneyHTF-Bold.otf usedmethod=direct
-system          >   17: filename=c:/windows/fonts/WhitneyHTF-BookSC.otf format=otf foundname=c:/windows/fonts/WhitneyHTF-BookSC.otf fullname=c:/windows/fonts/WhitneyHTF-BookSC.otf usedmethod=direct
-system          >   18: filename=fontawesome filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/opentype/public/FontAwesome/FontAwesome.otf fullname=C:/context/tex/texmf/fonts/opentype/public/FontAwesome/FontAwesome.otf usedmethod=database
-system          >   19: filename=texgyrepagella-bold filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf fullname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf usedmethod=database
-system          >   20: filename=c:/windows/fonts/FiraSans-Medium.otf format=otf foundname=c:/windows/fonts/FiraSans-Medium.otf fullname=c:/windows/fonts/FiraSans-Medium.otf usedmethod=direct
-system          >   21: filename=texgyrepagella-italic filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf fullname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf usedmethod=database
-system          >   22: filename=c:/windows/fonts/Heebo-Black.ttf format=ttf foundname=c:/windows/fonts/Heebo-Black.ttf fullname=c:/windows/fonts/Heebo-Black.ttf usedmethod=direct
-system          >   23: filename=c:/windows/fonts/WhitneyHTF-Light.otf format=otf foundname=c:/windows/fonts/WhitneyHTF-Light.otf fullname=c:/windows/fonts/WhitneyHTF-Light.otf usedmethod=direct
-system          >   24: filename=texgyretermes-regular filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf fullname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf usedmethod=database
-system          >   25: filename=texgyretermes-math.otf filetype=otf format=otf foundname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre-math/texgyretermes-math.otf fullname=C:/context/tex/texmf/fonts/opentype/public/tex-gyre-math/texgyretermes-math.otf usedmethod=database
-system          >   26: filename=termes-math.lfg filetype=tex foundname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/termes-math.lfg fullname=C:/context/tex/texmf-context/tex/context/fonts/mkiv/termes-math.lfg usedmethod=database
-system          >   27: filename=pdftex.map filetype=map format=map foundname=C:/context/tex/texmf/fonts/map/pdftex/plain/pdftex.map fullname=C:/context/tex/texmf/fonts/map/pdftex/plain/pdftex.map usedmethod=database
-system          >   28: filename=lpdf-pdx.xml filetype=tex foundname=C:/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml fullname=C:/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+system          >    1: filename=char-prv.lua filetype=tex format=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/char-prv.lua fullname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/char-prv.lua usedmethod=database
+system          >    2: filename=cont-yes.mkiv filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv fullname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
+system          >    3: filename=publ-imp-default.lua filetype=scripts foundname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua fullname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    4: filename=cont-new.mkiv filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv fullname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
+system          >    5: filename=lang-exc.lua filetype=scripts foundname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua fullname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    6: filename=lang-us.lua filetype=scripts foundname=/home/duonagem/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua fullname=/home/duonagem/context/tex/texmf-context/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    7: filename=/home/duonagem/Documentos/Repositories/Curriculum-vitae/curriculum.tex foundname=/home/duonagem/Documentos/Repositories/Curriculum-vitae/curriculum.tex fullname=/home/duonagem/Documentos/Repositories/Curriculum-vitae/curriculum.tex usedmethod=direct
+system          >    8: filename=type-imp-texgyre.mkiv filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-texgyre.mkiv fullname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/type-imp-texgyre.mkiv usedmethod=database
+system          >    9: filename=lm.lfg filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/lm.lfg fullname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/lm.lfg usedmethod=database
+system          >   10: filename=texgyrepagella-regular filetype=otf format=otf foundname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf fullname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf usedmethod=database
+system          >   11: filename=texgyrepagella-math.otf filetype=otf format=otf foundname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre-math/texgyrepagella-math.otf fullname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre-math/texgyrepagella-math.otf usedmethod=database
+system          >   12: filename=pagella-math.lfg filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/pagella-math.lfg fullname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/pagella-math.lfg usedmethod=database
+system          >   13: filename=schola-math.lfg filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/schola-math.lfg fullname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/schola-math.lfg usedmethod=database
+system          >   14: filename=colo-imp-xwi.mkiv filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/colo-imp-xwi.mkiv fullname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/colo-imp-xwi.mkiv usedmethod=database
+system          >   15: filename=symb-imp-fontawesome.mkiv filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/symb-imp-fontawesome.mkiv fullname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/symb-imp-fontawesome.mkiv usedmethod=database
+system          >   16: filename=fontawesome filetype=otf format=otf foundname=/home/duonagem/context/tex/texmf/fonts/opentype/public/FontAwesome/FontAwesome.otf fullname=/home/duonagem/context/tex/texmf/fonts/opentype/public/FontAwesome/FontAwesome.otf usedmethod=database
+system          >   17: filename=texgyrepagella-bold filetype=otf format=otf foundname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf fullname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf usedmethod=database
+system          >   18: filename=texgyrepagella-italic filetype=otf format=otf foundname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf fullname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf usedmethod=database
+system          >   19: filename=texgyretermes-regular filetype=otf format=otf foundname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf fullname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyretermes-regular.otf usedmethod=database
+system          >   20: filename=texgyretermes-math.otf filetype=otf format=otf foundname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre-math/texgyretermes-math.otf fullname=/home/duonagem/context/tex/texmf/fonts/opentype/public/tex-gyre-math/texgyretermes-math.otf usedmethod=database
+system          >   21: filename=termes-math.lfg filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/termes-math.lfg fullname=/home/duonagem/context/tex/texmf-context/tex/context/fonts/mkiv/termes-math.lfg usedmethod=database
+system          >   22: filename=lpdf-pdx.xml filetype=tex foundname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml fullname=/home/duonagem/context/tex/texmf-context/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
 
 system          > stop used files
 
@@ -126,36 +250,29 @@ modules         > start used modules
 modules         > stop used modules
 
 
-fonts           > start missing characters: c:/windows/fonts/WhitneyHTF-Light.otf
-
-fonts           >    1  U+00301  ́  COMBINING ACUTE ACCENT
-
-fonts           > stop missing characters
-
-
 mkiv lua stats  > used config file: selfautoparent:/texmf/web2c/texmfcnf.lua
-mkiv lua stats  > used cache path: C:/context/tex/texmf-cache/luatex-cache/context/5fe67e0bfe781ce0dde776fb1556f32e
-mkiv lua stats  > resource resolver: loadtime 0.009 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 28 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 445 modules (0.412 sec), 93 tables (0.024 sec), 538 chunks (0.436 sec)
+mkiv lua stats  > used cache path: /home/duonagem/context/tex/texmf-cache/luatex-cache/context/5fe67e0bfe781ce0dde776fb1556f32e
+mkiv lua stats  > resource resolver: loadtime 0.011 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 22 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 445 modules (0.400 sec), 93 tables (0.030 sec), 538 chunks (0.430 sec)
 mkiv lua stats  > traced context: maxstack: 1366, freed: 0, unreachable: 1366
 mkiv lua stats  > cleaned up reserved nodes: 62 nodes, 9 lists of 442
 mkiv lua stats  > node memory usage: 2 glue, 2 kern, 2 penalty, 16 attribute, 50 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
-mkiv lua stats  > node list callback tasks: 8 unique task lists, 8 instances (re)created, 293 calls
-mkiv lua stats  > h-node processing time: 0.027 seconds including kernel
-mkiv lua stats  > synctex tracing: 2 referenced files, 7 files ignored, 62 objects flushed, logfile: curriculum.synctex
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 8 instances (re)created, 267 calls
+mkiv lua stats  > h-node processing time: 0.020 seconds including kernel
+mkiv lua stats  > synctex tracing: 2 referenced files, 7 files ignored, 57 objects flushed, logfile: curriculum.synctex
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.003 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: internal: 664, file: 1488, direct: 3, late: 63, function 2064, total: 4282 (4282 per page)
+mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: internal: 577, file: 1489, direct: 3, late: 60, function 2045, total: 4174
 mkiv lua stats  > randomizer: resumed with value 0.35507202148438
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
 mkiv lua stats  > interactive elements: 2 references, 3 destinations
 mkiv lua stats  > result saved in file: curriculum.pdf, compresslevel 3, objectcompresslevel 3
-mkiv lua stats  > loaded fonts: 12 files: fontawesome.otf, texgyrepagella-math.otf, texgyretermes-math.otf, texgyrepagella-bold.otf, texgyrepagella-italic.otf, texgyrepagella-regular.otf, texgyretermes-regular.otf, firasans-medium.otf, heebo-black.ttf, whitneyhtf-bold.otf, whitneyhtf-booksc.otf, whitneyhtf-light.otf
-mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 23 instances, 11 shared in backend, 2 common vectors, 9 common hashes, load time 0.794 seconds 
+mkiv lua stats  > loaded fonts: 7 files: fontawesome.otf, texgyrepagella-math.otf, texgyretermes-math.otf, texgyrepagella-bold.otf, texgyrepagella-italic.otf, texgyrepagella-regular.otf, texgyretermes-regular.otf
+mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 17 instances, 10 shared in backend, 2 common vectors, 8 common hashes, load time 0.591 seconds 
 mkiv lua stats  > pdf annotations: 2 links (2 unique), 0 special
-mkiv lua stats  > used platform: win64, type: windows, binary subtree: texmf-win64
-mkiv lua stats  > used engine: luatex version 1.09 with functionality level 6998, banner: this is luatex, version 1.09.0 (tex live 2018/w32tex)
+mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: texmf-linux-64
+mkiv lua stats  > used engine: luatex version 1.09 with functionality level 6980, banner: this is luatex, version 1.09.0 (tex live 2019/dev)
 mkiv lua stats  > control sequences: 47714 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 99 MB (ctx: 98 MB), hash type: lua, hash chars: min(32,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 1.773 seconds, 2 processed pages, 2 shipped pages, 1.128 pages/second
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 114 MB (ctx: 114 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.348 seconds, 1 processed pages, 1 shipped pages, 0.742 pages/second
 

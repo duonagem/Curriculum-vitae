@@ -43,7 +43,7 @@ if not utilitydata.job.passes then utilitydata.job.passes = { } end
 
 utilitydata.job.passes.collected={
  ["itemgroup:itemize:1"]={
-  { 4, 0 },
+  { 5, 0 },
  },
 }
 
@@ -100,7 +100,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 4 },
+  { 0, 5 },
  },
  ["linenote"]={
   { 0 },
@@ -109,16 +109,16 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["realpage"]={
-  { 2 },
+  { 1 },
  },
  ["subpage"]={
-  { 2 },
+  { 1 },
  },
  ["table"]={
   { 0 },
  },
  ["userpage"]={
-  { 2 },
+  { 1 },
  },
 }
 
@@ -177,13 +177,6 @@ utilitydata.structures.pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=1,
-  ["numberdata"]=4,
-  ["prefixdata"]=5,
-  ["state"]="start",
- },
- {
-  ["block"]="bodypart",
-  ["number"]=2,
   ["numberdata"]=4,
   ["prefixdata"]=5,
   ["state"]="start",
